@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permissions</string>
+
+    <string name="btn_lbl_show_camera">Show camera</string>
+
+    <string name="permission_camera_rationale">Camera permission is needed to show the camera preview.</string>
+
+    <string name="ok">OK</string>
+</resources>
